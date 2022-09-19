@@ -3,6 +3,6 @@
 ```
 bilgisayar
 yazılım
- vs
+ vssssssss
  ```
 
